@@ -3,6 +3,7 @@ title: HTML
 author: Taron Foxworth
 handle: "@anaptfox"
 date: 2017-06-12
+complete: true
 ---
 
 HyperText Markup Language (HTML) defines the structure of a webpage. 

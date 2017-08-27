@@ -3,6 +3,7 @@ title: JSON Web Token (JWT)
 author: Taron Foxworth
 handle: "@anaptfox"
 date: 2017-08-06
+complete: true
 ---
 
 JWT
