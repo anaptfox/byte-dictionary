@@ -1,6 +1,8 @@
 ---
 title: JSON Web Token (JWT)
 author: Taron Foxworth
+slug: jwt
+tags: ["web"]
 handle: "@anaptfox"
 date: 2017-08-06
 complete: true

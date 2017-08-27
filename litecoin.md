@@ -2,6 +2,7 @@
 title: Litecoin
 author: Taron Foxworth
 handle: "@anaptfox"
+slug: litecoin
 tags: ["cryptocurrency"]
 date: 2017-08-27
 ---

@@ -1,5 +1,7 @@
 ---
 title: HTML
+slug: html
+tags: ["web"]
 author: Taron Foxworth
 handle: "@anaptfox"
 date: 2017-06-12
