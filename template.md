@@ -2,8 +2,8 @@
 title: TITLE
 author: AUTHOR
 handle: TWITTER HANDLE
-tags: ["something"]
 date: 2017-06-12
+complete: false
 ---
 
 DESCRIPTION 
@@ -18,22 +18,12 @@ VIDEO
 
 ## Podcasts
 
-## Npm modules
-
-## Courses
-
 ## Libraries / Frameworks
 
-## Slacks / Communities
+##IOT
 
-## Tools
+## Slacks
 
 ## Apps
 
 ## Link
-
-## FAQ
-
-## Visuals
-
-## Books

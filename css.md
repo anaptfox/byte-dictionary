@@ -4,6 +4,7 @@ author: Taron Foxworth
 handle: "@anaptfox"
 date: 2017-08-06
 tag: ['web']
+complete: true
 ---
 
 Cascading Style Sheets (CSS) defines the structure of a webpage. 
