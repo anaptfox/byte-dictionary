@@ -22,6 +22,7 @@ date: 2017-08-27
 
 ## Resources
 
+[A Beginner's Guide to Litecoin](https://blog.coinbase.com/a-beginners-guide-to-litecoin-d9b455d44cd3)
 [Litecoin Reddit](https://www.reddit.com/r/litecoin/)
 [Litecoin Main Website](https://litecoin.org/)
 [Litecoin Wiki](https://litecoin.info/)
